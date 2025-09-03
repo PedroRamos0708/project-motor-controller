@@ -1,0 +1,47 @@
+### Footprint positions - created on 2025-09-02T22:45:30-0300 ###
+### Printed by KiCad version 9.0.4
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                   Package                                                                                          PosX       PosY       Rot  Side
+C1        22pF                  C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 150.2412   -75.6020    0.0000  top
+C2        100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 155.2412   -69.6020  180.0000  top
+C3        22pF                  C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 150.2412   -72.6020    0.0000  top
+C4        100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 150.2412   -78.6020    0.0000  top
+C5        100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 150.2412   -81.6020    0.0000  top
+C6        100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 114.5000   -31.0000   90.0000  top
+C7        220uF/16V             CP_Radial_D8.0mm_P5.00mm                                                                     148.0000   -37.4027   90.0000  top
+C8        680uF                 CP_Radial_D13.0mm_P7.50mm                                                                    121.0000   -43.5000   90.0000  top
+C9        100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 137.5000   -47.0000    0.0000  top
+C10       1uF/10V               C_0805_2012Metric                                                                            152.7912   -54.1020  180.0000  top
+C11       1uF/10V               C_0805_2012Metric                                                                            156.7412   -54.1020  180.0000  top
+C12       100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 131.5000   -49.0000  180.0000  top
+C13       100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                  95.5000   -71.7350  -90.0000  top
+C14       100uF                 CP_Radial_D5.0mm_P2.50mm                                                                     124.2949   -83.0000    0.0000  top
+C15       100nF                 C_Disc_D4.3mm_W1.9mm_P5.00mm                                                                 108.5000   -51.2350  -90.0000  top
+D1        1n5824                TO-220-2_Vertical                                                                            135.4600   -22.9500    0.0000  top
+D2        SMBJ33A               D_SMB                                                                                        102.5000   -30.5000  180.0000  top
+D3        LED                   LED_D5.0mm                                                                                   162.0000   -34.5400   90.0000  top
+D4        SS34                  D_SMA                                                                                        110.0000   -34.0000  -90.0000  top
+D5        1N5819                D_DO-41_SOD81_P10.16mm_Horizontal                                                            118.5800   -80.2350  180.0000  top
+D6        SS34                  D_SMA                                                                                        100.0000   -55.7350  180.0000  top
+F1        2A                    Fuseholder_Clip-5x20mm_Bel_FC-203-22_Lateral_P17.80x5.00mm_D1.17mm_Horizontal                114.9000   -67.7350  180.0000  top
+J1        Jack-DC               BarrelJack_Horizontal                                                                         94.0000   -33.0000    0.0000  top
+J2        DE9_Socket            DSUB-9_Socket_Horizontal_P2.77x2.84mm_EdgePinOffset4.94mm_Housed_MountingHolesOffset4.94mm   163.8364   -53.7808   90.0000  top
+J3        Screw_Terminal_01x02  TerminalBlock_Altech_AK300-2_P5.00mm                                                          86.5000   -50.2350  -90.0000  top
+J4        Screw_Terminal_01x02  TerminalBlock_Altech_AK300-2_P5.00mm                                                          86.5000   -65.4700  -90.0000  top
+L1        33uH                  L_Radial_D12.5mm_P7.00mm_Fastron_09HCP                                                       135.5000   -32.0000  -90.0000  top
+Q1        IRLZ44N               TO-220-3_Vertical                                                                            103.0800   -85.0000  180.0000  top
+R1        10K                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                            129.0000   -53.9200  -90.0000  top
+R2        1k                    R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                            148.4200   -26.0000    0.0000  top
+R5        4k7                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                             94.9200   -50.2350    0.0000  top
+R6        10k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                            121.5000   -58.2350  -90.0000  top
+R7        100                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                            111.9200   -74.2350    0.0000  top
+R8        10k                   R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal                                            109.5800   -74.2350  180.0000  top
+SW1       SW_Push               SW_PUSH_6mm_H5mm                                                                             155.7008   -48.1732  180.0000  top
+TH1       Thermistor_PTC        Fuse_BelFuse_0ZRE0025FF_L9.6mm_W3.8mm                                                        100.4500   -38.1000    0.0000  top
+U1        ATmega328-P           DIP-28_W7.62mm                                                                               136.0000   -51.9600    0.0000  top
+U2        LM2596T-5             TO-220-5_P3.4x3.7mm_StaggerOdd_Lead3.8mm_Vertical                                            119.9000   -28.2000    0.0000  top
+U3        MAX3232               JEITA_SOIC-16_3.9x9.9mm_P1.27mm                                                              154.2412   -61.1020  -90.0000  top
+U4        PC817                 DIP-4_W7.62mm                                                                                113.6950   -51.9600    0.0000  top
+Y1        16MHz                 Crystal_HC49-4H_Vertical                                                                     130.1496   -77.0668   90.0000  top
+## End
